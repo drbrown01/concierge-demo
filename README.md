@@ -1,3 +1,3 @@
 # concierge-demo
 blueprint of our app "Conceirge"
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](./assets/images/concierge.png)
